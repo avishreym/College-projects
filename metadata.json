@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Entanglement PCA Manifold Lab",
+  "description": "Scientific computing research pipeline and interactive laboratory analyzing two-qubit entanglement manifolds and noise trajectories via PCA on quantum measures and raw Pauli observables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

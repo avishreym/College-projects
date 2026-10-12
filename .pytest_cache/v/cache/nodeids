@@ -1,0 +1,22 @@
+[
+  "tests/test_validation.py::TestBellStatesGroundTruth::test_bell_phi_plus_pauli_observables",
+  "tests/test_validation.py::TestBellStatesGroundTruth::test_bell_state_properties[phi_minus]",
+  "tests/test_validation.py::TestBellStatesGroundTruth::test_bell_state_properties[phi_plus]",
+  "tests/test_validation.py::TestBellStatesGroundTruth::test_bell_state_properties[psi_minus]",
+  "tests/test_validation.py::TestBellStatesGroundTruth::test_bell_state_properties[psi_plus]",
+  "tests/test_validation.py::TestFeatureVectors::test_feature_sets_dimensions",
+  "tests/test_validation.py::TestPCAEngine::test_analytical_2x2_characteristic_equation",
+  "tests/test_validation.py::TestPCAEngine::test_pca_inverse_transform_reconstruction",
+  "tests/test_validation.py::TestPCAEngine::test_pca_sklearn_numerical_parity",
+  "tests/test_validation.py::TestProductStatesGroundTruth::test_product_states_entanglement_zero[++]",
+  "tests/test_validation.py::TestProductStatesGroundTruth::test_product_states_entanglement_zero[00]",
+  "tests/test_validation.py::TestProductStatesGroundTruth::test_product_states_entanglement_zero[01]",
+  "tests/test_validation.py::TestProductStatesGroundTruth::test_product_states_entanglement_zero[10]",
+  "tests/test_validation.py::TestProductStatesGroundTruth::test_product_states_entanglement_zero[11]",
+  "tests/test_validation.py::TestPureStateTheorems::test_haar_random_pure_state_relations",
+  "tests/test_validation.py::TestPureStateTheorems::test_parametrized_schmidt_sweep",
+  "tests/test_validation.py::TestTomographyReconstruction::test_finite_shots_physicality",
+  "tests/test_validation.py::TestTomographyReconstruction::test_infinite_shots_exact_recovery",
+  "tests/test_validation.py::TestWernerStateGroundTruth::test_werner_analytical_formula_curves",
+  "tests/test_validation.py::TestWernerStateGroundTruth::test_werner_thresholds_and_gap"
+]
